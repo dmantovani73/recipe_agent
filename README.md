@@ -165,7 +165,7 @@ hai delle preferenze dietetiche o allergie che dovrei conoscere?
 ```python
 if __name__ == "__main__":
     # TODO: Chiedi all'utente di inserire un user_id
-    # TODO: Passa il user_id al metodo cli_app() dell'agente
+    # TODO: Passa il user_id all'agente
 ```
 
 # Checkpoint 3
